@@ -7,9 +7,11 @@ Serve my need to quickly spin up a NestJS API with all the things neccessary to 
 - [ ] Authentication
 - [ ] Roles guard
 - [ ] Testing with proper mocks
+- [ ] Auto documentation with Swagger
 
 ## Tech stack
 - JWT
 - TypeORM with Migrations
 - Postgres
 - Typescript
+- Swagger
